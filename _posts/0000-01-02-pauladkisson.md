@@ -2,5 +2,9 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+## Meme Time
+Other programmers @ me using GitHub:
+![First Time Meme](James_Franco_First_Time.jpg)
+
+
 Use the left arrow to go back!
